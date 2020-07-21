@@ -2,7 +2,7 @@
 
 > Detecting wheat heads from outdoor images of wheat plants, including wheat datasets from around the globe using UltraAnalytics Yolo-V5.
 
-<a href=""><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fvin1234%2Fgettingstarted-with-yolov5-global-wheat-detection&psig=AOvVaw2LkKNr9DARUV2Y94pYHpqD&ust=1595425218562000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjKk5683uoCFQAAAAAdAAAAABAD" title="FVCproductions" alt="Wheat-Yolo-V5"></a>
+<a href="https://raw.githubusercontent.com/AIVenture0/Global-Wheat-Detection-kaggle-challenge/master/wheat1.jpg"><img src="https://raw.githubusercontent.com/AIVenture0/Global-Wheat-Detection-kaggle-challenge/master/wheat1.jpg" title="Wheat-Yolo-V5" alt="Wheat-Yolo-V5"></a>
 
 
 ## Table of Contents
